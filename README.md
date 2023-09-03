@@ -14,7 +14,7 @@ Skills: C,C++,Java,Python
 - ⚡ Fun fact: My dream vacation is going to Lyon, Bordeaux and Mont Saint-Michel and speak in French. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/argha-auddy2412/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/argha_auddy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@argha_auddy)  
 
 
 
