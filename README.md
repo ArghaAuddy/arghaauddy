@@ -5,9 +5,8 @@
 Hi there ,I'm Argha Auddy ,a second year CSE student at VIT Chennai .I enjoy learning new programming languages and am a Full Stack Web enthusiast.I love to learn newer algorithms and love to code and love to learn DSA as well .
 
 Skills: C,C++,Java,Python
-
-- 🔭 I’m currently working on Skin Disease Detection using Mobile Neural Networks  
-- 🌱 I’m currently learning Front End Web Development,Back End ,Data Structures and Algorithms  
+  
+- 🌱 I’m currently learning Front End Web Development,Back End ,Data Structures and Algorithms.
 - 💬 Ask me about Maths ,Physics  
 - 📫 How to reach me: arghaauddy3@gmail.com 
 - 😄 Pronouns: He/Him 
