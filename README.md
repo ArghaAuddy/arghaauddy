@@ -18,6 +18,5 @@ Skills: C,C++,Java,Python,React,HTML,CSS,Javascript,Machine Learning, Deep Learn
 
 
 
-[![Argha's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghaauddy)](https://github.com/arghaauddy/github-readme-stats)
 
 
